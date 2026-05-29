@@ -1,0 +1,6 @@
+{
+  "name": "TIC 9º Ano - Portugal",
+  "description": "Plataforma de aprendizagem interativa da disciplina de Tecnologias de Informação e Comunicação do 9º Ano, com resumos, exercícios práticos, testes e registo de progresso local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
